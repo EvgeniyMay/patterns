@@ -1,0 +1,15 @@
+#Folders
+.idea/
+obj/
+Library/
+Logs/
+Packages/
+Temp/
+UserSettings/
+
+#Files
+*.csproj
+*.sln
+*.pidb
+*.userprefs
+*.meta
